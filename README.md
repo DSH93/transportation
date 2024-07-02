@@ -1,4 +1,4 @@
-# README.txt for HW02ADV
+# README.txt for Transportation
 
 ## The Project
 This C++ project simulates and manages complex networks, potentially reflecting transportation or communication systems. Using object-oriented principles and advanced C++ features, the project models interactions within a multigraph environment, highlighting network nodes and edge dynamics.
