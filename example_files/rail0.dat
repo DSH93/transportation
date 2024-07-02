@@ -1,0 +1,9 @@
+CSzuid	CSwest	8 +
+CSwest	CSzuid	7 +
+CSzuid	CSoost	8 +
+CSoost	CSzuid	9+
+CSnoord	CSwest	15 +
+CSwest	CSnoord	14+
+CSnoord	CSoost	17+
+CSoost	CSnoord	16+
+CSoost	CSnoord	3+

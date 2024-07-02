@@ -1,0 +1,91 @@
+# Build directories
+build/
+cmake-build-debug/
+cmake-build-release/
+CMakeFiles/
+
+# Compiled object files
+*.o
+*.obj
+*.lo
+*.la
+*.al
+*.libs
+
+# Executable files
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# CMake build files
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+CTestTestfile.cmake
+cmake_install.cmake
+install_manifest.txt
+Makefile
+Makefile.in
+CMakeLists.txt.user
+
+# User-specific files
+*.user
+*.user.*
+*.swp
+*.swo
+
+# Qt Creator files
+*.pro.user*
+*.qbs.user*
+*.moc
+*.obj
+*.autosave
+
+# Code::Blocks files
+*.depend
+*.layout
+
+# Visual Studio files
+.vscode/
+*.vcxproj
+*.vcxproj.user
+*.ncb
+*.suo
+*.sln
+*.vcproj*
+*.psess
+ipch/
+*.aps
+*.pch
+*.pdb
+*.obj
+*.user
+*.ncb
+*.suo
+*.opt
+*.plg
+*.idb
+*.ipdb
+*.tlog
+*.lastbuildstate
+*.vspscc
+*.vssscc
+.vs/
+
+# CLion files
+.idea/
+cmake-build-debug/
+cmake-build-release/
+CMakeLists.txt.user
+
+# JetBrains IDEs
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Other temporary files
+*~
